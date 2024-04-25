@@ -1,6 +1,6 @@
 # WatchWave
 ---
-This is the official github page for WatchWave, only only streaming service you'll ever need.
+This is the official github page for WatchWave, the only streaming service you'll ever need.
 
 Note that WatchWave is **not** open-sourced anymore.
 
