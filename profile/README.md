@@ -6,4 +6,4 @@ This is the official github page for WatchWave, the only streaming service you'l
 
 Note that WatchWave is **not** open-sourced anymore.
 
-For issues or inquiries, contact 519vihaansh@gmail.com
+For issues or inquiries, contact watchwavev2@gmail.com
